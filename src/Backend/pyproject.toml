@@ -3,7 +3,7 @@ name = "stt-exams"
 version = "0.5.1"
 description = ""
 authors = ["Gustavo Albino <gustavo@radhark.tech>"]
-readme = "README.md"
+#readme = "README.md"
 packages = [{include = "api", from = "src"}]
 
 [tool.poetry.dependencies]
